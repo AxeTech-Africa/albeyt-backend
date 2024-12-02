@@ -1,0 +1,2 @@
+[console_scripts]
+openai_pygenerator = openai_pygenerator:main
